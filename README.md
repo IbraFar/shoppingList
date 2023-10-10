@@ -1,4 +1,4 @@
-# shopping-list-x
+# shoppingList
 This little program shows a lot of the features of a Java Project for IntelliJ/Maven
 
 1. Java source files are all grouped under the src/main/java directory
